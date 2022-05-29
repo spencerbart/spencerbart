@@ -11,6 +11,24 @@ Whatsup my fellow hackers.
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
 
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
+
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=next,postgresql,aws,react,tailwind,docker,python,typescript,supabase,go,github,ruby,java,figma&perline=7" />
