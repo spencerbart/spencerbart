@@ -1,33 +1,25 @@
 # Hi there 👋
 
-![readme-ascii](./SPENCER.png)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile;Check+out+my+website+to+learn+more;spencerbartholomew.com)](https://git.io/typing-svg)
 
-Whatsup my fellow hackers.
+## 🔗 [Here's a link to my website](https://spencerbartholomew.com/)
+## My name is 👇
+
+![readme-ascii](./SPENCER.png)
+
+>## A little bio 📖
+
+Whatsup my fellow hackers. My name is Spencer Bartholomew and I am an absolute wizard with a computer 👨‍💻. I love building badass products with 🔥 technology.
+
+I am an engineer at a startup called Neighbor by day🌞 and building something awesome by night🌒 (more details to come soon😉).
+
+>## Here's some of the technologies I ❤️ using
 
 [![My Skills](https://skillicons.dev/icons?i=next,postgresql,aws,react,tailwind,docker,python,typescript,supabase,go,github,ruby,java,figma&perline=7)](https://skillicons.dev)
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+>## One of my favorite stacks to use ⚡️
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
+[This stack is super fast to build and deploy with.](https://github.com/stars/spencerbart/lists/wicked-fast-stack)
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
