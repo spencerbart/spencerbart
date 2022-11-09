@@ -23,7 +23,7 @@ I am an engineer at a startup called Neighbor by day🌞 and building something 
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,postgresql,aws,react,tailwind,docker,python,typescript,supabase,go,github,ruby,java,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=rust,next,postgresql,aws,react,tailwind,docker,typescript,deno,supabase,go,github,java,figma&perline=7" />
   </a>
 </p> -->
 <!--
