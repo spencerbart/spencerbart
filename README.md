@@ -1,19 +1,14 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile;Check+out+my+website+to+learn+more;spencerbartholomew.com)](https://git.io/typing-svg)
-
 ## 🔗 [Here's a link to my website](https://spencerbartholomew.com/)
-## My name is 👇
-
-![readme-ascii](./SPENCER.png)
 
 >## A little bio 📖
 
-Whatsup my fellow hackers. My name is Spencer Bartholomew and I am an absolute wizard with a computer 👨‍💻.
+I spend most of my days writing Rust.
 
 >## Here's some of the technologies I ❤️ using
 
-[![My Skills](https://skillicons.dev/icons?i=rust,next,postgresql,aws,react,tailwind,docker,typescript,supabase,go,github,ruby,java,figma&perline=7)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=rust,go,postgresql,aws,docker,nextjs,react,tailwind,typescript,deno&perline=5)
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
